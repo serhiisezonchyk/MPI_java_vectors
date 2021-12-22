@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MOIL7:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MOIL7_jar</output-path>
+    <root id="archive" name="MOIL7.jar">
+      <element id="module-output" name="MOIL7" />
+    </root>
+  </artifact>
+</component>
